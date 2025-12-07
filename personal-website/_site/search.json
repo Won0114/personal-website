@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Wonhyeok Choi",
+    "section": "",
+    "text": "Wonhyeok Choi is an undergraduate Statistics & Data Science student at UCLA who loves turning complex data into clear insights. When he’s not building models or exploring new analytics tools, he enjoys soccer, biostatistics and working on sports analytics side projects.\nDOWNLOAD CV"
+  },
+  {
+    "objectID": "index.html#wonhyeok-choi",
+    "href": "index.html#wonhyeok-choi",
+    "title": "Wonhyeok Choi",
+    "section": "",
+    "text": "Wonhyeok Choi is an undergraduate Statistics & Data Science student at UCLA who loves turning complex data into clear insights. When he’s not building models or exploring new analytics tools, he enjoys soccer, biostatistics and working on sports analytics side projects.\nDOWNLOAD CV"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Wonhyeok Choi",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nBS in Statistics and Data science"
+  },
+  {
+    "objectID": "index.html#courses",
+    "href": "index.html#courses",
+    "title": "Wonhyeok Choi",
+    "section": "Courses",
+    "text": "Courses\nStats100A | Introduction to Probability\nStats100B | Introduction to Mathematical Statistics\nStats100C | Linear Models\nStats101A | Introduction to Data Analysis and Regression\nStats101B | Introduction to Design and Analysis of Experiment\nStats101C | Introduction to Statistical Models and Data Mining\nStats102A | Introduction to Computational Statistics with R\nStats102C | Introduction to Monte Carlo Methods"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Projcet",
+    "section": "",
+    "text": "listing: contents: posts sort: “date”"
+  },
+  {
+    "objectID": "about.html#projects",
+    "href": "about.html#projects",
+    "title": "Projcet",
+    "section": "Projects",
+    "text": "Projects"
+  },
+  {
+    "objectID": "Project.html",
+    "href": "Project.html",
+    "title": "Wonhyeok Choi",
+    "section": "",
+    "text": "listing: contents: posts sort: “date”"
+  },
+  {
+    "objectID": "Project.html#projects",
+    "href": "Project.html#projects",
+    "title": "Wonhyeok Choi",
+    "section": "Projects",
+    "text": "Projects"
+  },
+  {
+    "objectID": "About.html",
+    "href": "About.html",
+    "title": "projcet",
+    "section": "",
+    "text": "listing: contents: posts sort: “date”"
+  },
+  {
+    "objectID": "About.html#projects",
+    "href": "About.html#projects",
+    "title": "projcet",
+    "section": "Projects",
+    "text": "Projects"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Wonhyeok Choi",
+    "section": "",
+    "text": "U.S. Pandemic Travel Behavior Study\nLed data analysis for The Data Voyage, a study on U.S. travel patterns during and after COVID-19 using the “Trips by Distance” dataset. Produced Tableau dashboards, narrative integration, and visual storytelling to explain shifting mobility trends.\nHere is my project 1 link"
+  },
+  {
+    "objectID": "Projects.html#project-1",
+    "href": "Projects.html#project-1",
+    "title": "Wonhyeok Choi",
+    "section": "",
+    "text": "U.S. Pandemic Travel Behavior Study\nLed data analysis for The Data Voyage, a study on U.S. travel patterns during and after COVID-19 using the “Trips by Distance” dataset. Produced Tableau dashboards, narrative integration, and visual storytelling to explain shifting mobility trends.\nHere is my project 1 link"
+  },
+  {
+    "objectID": "Projects.html#project-2",
+    "href": "Projects.html#project-2",
+    "title": "Wonhyeok Choi",
+    "section": "Project 2",
+    "text": "Project 2\nStatistical Experimental Design Project — Effect of Alcohol & Music on Openness\nStatistical Experimental Design Project — Effect of Alcohol & Music on Openness Designed and executed a 3×3 factorial experiment (198 participants) to test whether drink type (beer, tequila, vodka) and music genre (classical, country, dance) produce measurable short-term changes in the Big Five trait Openness. Included blocking for age, gender, and BMI and analyzed effects using two-way ANOVA.\nHere is my project 2 link"
+  },
+  {
+    "objectID": "projects/project1.html",
+    "href": "projects/project1.html",
+    "title": "project1",
+    "section": "",
+    "text": "U.S. Pandemic Travel Behavior Study Led data analysis for The Data Voyage, a study on U.S. travel patterns during and after COVID-19 using the “Trips by Distance” dataset. Produced Tableau dashboards, narrative integration, and visual storytelling to explain shifting mobility trends.\nProject link"
+  },
+  {
+    "objectID": "Projects.html#project-3",
+    "href": "Projects.html#project-3",
+    "title": "Wonhyeok Choi",
+    "section": "Project 3",
+    "text": "Project 3\nU.S. County-Level Election Classification with Machine Learning\nUsed county-level socioeconomic and demographic data to predict the 2020 U.S. presidential county winner (Biden vs. Trump). Built and tuned multiple machine learning models—including Random Forest, XGBoost, and Gradient Boosting—and achieved 0.937 private leaderboard accuracy with a tuned Random Forest.\nHere is my project 3 link"
+  }
+]

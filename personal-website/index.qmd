@@ -1,0 +1,49 @@
+---
+title: "Wonhyeok Choi"
+about:
+  template: trestles
+  image: 123.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/
+    - icon: LinkedIn
+      text: LinkedIn
+      href: https://www.linkedin.com/in/wonhyeok-choi-a2319b264
+  
+
+toc: false
+---
+
+## Wonhyeok Choi
+
+Wonhyeok Choi is an undergraduate Statistics & Data Science student at UCLA who loves turning complex data into clear insights. When he’s not building models or exploring new analytics tools, he enjoys soccer, biostatistics and working on sports analytics side projects.
+
+DOWNLOAD [CV](/CV.pdf)
+
+
+## Education
+
+University of California, Los Angeles | Los Angeles, CA
+
+BS in Statistics and Data science 
+
+## Courses
+
+Stats100A | Introduction to Probability
+
+Stats100B | Introduction to Mathematical Statistics
+
+Stats100C | Linear Models
+
+Stats101A | Introduction to Data Analysis and Regression
+
+Stats101B | Introduction to Design and Analysis of Experiment
+
+Stats101C | Introduction to Statistical Models and Data Mining
+
+Stats102A | Introduction to Computational Statistics with R
+
+Stats102C | Introduction to Monte Carlo Methods
+
+

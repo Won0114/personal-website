@@ -1,0 +1,15 @@
+{
+  "hash": "32a646cdae5339731d263d1bd35188b2",
+  "result": {
+    "engine": "knitr",
+    "markdown": "\n\n## Courses\n\nStats100A | Introduction to Probability\n\nStats100B | Introduction to Mathematical Statistics\n\nStats100C | Linear Models\n\nStats101A | Introduction to Data Analysis and Regression\n\nStats101B | Introduction to Design and Analysis of Experiment\n\nStats101C | Introduction to Statistical Models and Data Mining\n\nStats102A | Introduction to Computational Statistics with R\n\nStats102C | Introduction to Monte Carlo Methods\n\n## Heading 2 \n\n\nAbout this site\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.08740751 0.53970836 0.24623962 0.69953496 0.95910050 0.28919305\n [7] 0.77392591 0.36868918 0.07875944 0.48396075\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

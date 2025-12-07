@@ -1,0 +1,8 @@
+---
+title: "project1"
+format: html
+---
+U.S. Pandemic Travel Behavior Study
+Led data analysis for The Data Voyage, a study on U.S. travel patterns during and after COVID-19 using the “Trips by Distance” dataset. Produced Tableau dashboards, narrative integration, and visual storytelling to explain shifting mobility trends.
+
+[Project link](https://dh101datavoyage.humspace.ucla.edu/277-2/)
