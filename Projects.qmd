@@ -1,0 +1,31 @@
+---
+toc: false
+---
+
+## Project 1
+
+U.S. Pandemic Travel Behavior Study
+
+Led data analysis for The Data Voyage, a study on U.S. travel patterns during and after COVID-19 using the “Trips by Distance” dataset. Produced Tableau dashboards, narrative integration, and visual storytelling to explain shifting mobility trends.
+
+Here is my [project 1 link](https://dh101datavoyage.humspace.ucla.edu/277-2/)
+
+## Project 2
+
+Statistical Experimental Design Project — Effect of Alcohol & Music on Openness
+
+Statistical Experimental Design Project — Effect of Alcohol & Music on Openness
+Designed and executed a 3×3 factorial experiment (198 participants) to test whether drink type (beer, tequila, vodka) and music genre (classical, country, dance) produce measurable short-term changes in the Big Five trait Openness. Included blocking for age, gender, and BMI and analyzed effects using two-way ANOVA.
+
+Here is my [project 2 link](Stats 101B Final Report.pdf)
+
+## Project 3
+
+U.S. County-Level Election Classification with Machine Learning
+
+Used county-level socioeconomic and demographic data to predict the 2020 U.S. presidential county winner (Biden vs. Trump). Built and tuned multiple machine learning models—including Random Forest, XGBoost, and Gradient Boosting—and achieved 0.937 private leaderboard accuracy with a tuned Random Forest.
+
+Here is my [project 3 link](Stats101C_Final_Report_Classification.pdf)
+
+
+
